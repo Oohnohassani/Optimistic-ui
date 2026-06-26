@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "7",
+      "username": "jane_doe",
+      "verified": true,
+      "postDate": "2 hours ago",
+      "userImg": "https://i.pravatar.cc/300?img=44",
+      "postImg": "https://picsum.photos/id/67/500/300",
+      "post": "Exploring the beauty of the world one photo at a time. #travel #photography #nature",
+      "postLikes": 148,
+      "postBookmarks": 621,
+      "postComments": 15,
+      "postLiked": true,
+      "postBookmarked": true
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
