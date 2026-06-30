@@ -53,15 +53,26 @@ src/
 ### ▶️ Getting Started
 
 ```bash
-# Clone repo
-git clone https://github.com/your-username/optimistic-ui-demo.git
+# Clone the repository
+git clone https://github.com/Oohnohassani/Optimistic-ui.git
+
+# Navigate into the project
+cd Optimistic-ui
 
 # Install dependencies
 npm install
 
-# Run project
+# Start the mock server
+npm run server
+
+# In a separate terminal, start the Vite development server
 npm run dev
 ```
+
+The application will be available at:
+
+- **Mock API Server:** http://localhost:8001
+- **Vite Development Server:** http://localhost:5173 (or the port shown in your terminal if 5173 is already in use)
 
 ### 💡 What You Learn
 
